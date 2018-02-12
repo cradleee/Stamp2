@@ -12,6 +12,11 @@
 		6825142B2030263000954E31 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 682514292030263000954E31 /* Main.storyboard */; };
 		6825142D2030263000954E31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6825142C2030263000954E31 /* Assets.xcassets */; };
 		682514302030263000954E31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6825142E2030263000954E31 /* LaunchScreen.storyboard */; };
+		6825143A2030A96500954E31 /* hana.png in Resources */ = {isa = PBXBuildFile; fileRef = 682514372030A96400954E31 /* hana.png */; };
+		6825143B2030A96500954E31 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 682514382030A96400954E31 /* background.png */; };
+		6825143C2030A96500954E31 /* hoshi.png in Resources */ = {isa = PBXBuildFile; fileRef = 682514392030A96400954E31 /* hoshi.png */; };
+		6825143E2030A97100954E31 /* onpu.png in Resources */ = {isa = PBXBuildFile; fileRef = 6825143D2030A97100954E31 /* onpu.png */; };
+		682514402030A97A00954E31 /* shitumon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6825143F2030A97A00954E31 /* shitumon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		6825142C2030263000954E31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6825142F2030263000954E31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		682514312030263000954E31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		682514372030A96400954E31 /* hana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hana.png; sourceTree = "<group>"; };
+		682514382030A96400954E31 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		682514392030A96400954E31 /* hoshi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hoshi.png; sourceTree = "<group>"; };
+		6825143D2030A97100954E31 /* onpu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = onpu.png; sourceTree = "<group>"; };
+		6825143F2030A97A00954E31 /* shitumon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shitumon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +66,11 @@
 			children = (
 				682514252030263000954E31 /* AppDelegate.swift */,
 				682514272030263000954E31 /* ViewController.swift */,
+				682514382030A96400954E31 /* background.png */,
+				6825143F2030A97A00954E31 /* shitumon.png */,
+				682514372030A96400954E31 /* hana.png */,
+				6825143D2030A97100954E31 /* onpu.png */,
+				682514392030A96400954E31 /* hoshi.png */,
 				682514292030263000954E31 /* Main.storyboard */,
 				6825142C2030263000954E31 /* Assets.xcassets */,
 				6825142E2030263000954E31 /* LaunchScreen.storyboard */,
@@ -124,8 +139,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				682514302030263000954E31 /* LaunchScreen.storyboard in Resources */,
+				6825143C2030A96500954E31 /* hoshi.png in Resources */,
+				6825143B2030A96500954E31 /* background.png in Resources */,
 				6825142D2030263000954E31 /* Assets.xcassets in Resources */,
 				6825142B2030263000954E31 /* Main.storyboard in Resources */,
+				6825143E2030A97100954E31 /* onpu.png in Resources */,
+				682514402030A97A00954E31 /* shitumon.png in Resources */,
+				6825143A2030A96500954E31 /* hana.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
